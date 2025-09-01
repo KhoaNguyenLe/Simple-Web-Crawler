@@ -7,14 +7,14 @@ A lightweight Node.js web crawler that:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - **crawler.js** → Main crawler script  
 - **output files** → Each visited page’s HTML is saved as a `.txt` file in the same directory  
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### Functions
 
@@ -34,14 +34,14 @@ A lightweight Node.js web crawler that:
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - [Node.js](https://nodejs.org/) (v12 or newer recommended)  
 - npm packages: `axios`, `cheerio`
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone this repository:
 
